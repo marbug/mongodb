@@ -14,7 +14,8 @@ TODO
 ## TODO ##
 TODO :)
 
-## Useful Links ##
+## Useful links ##
+* [MongoDB Manual](https://docs.mongodb.com/manual/)
 * [Install MongoDB on Windows](https://docs.mongodb.com/getting-started/shell/tutorial/install-mongodb-on-windows/)
 
 ## License ##
