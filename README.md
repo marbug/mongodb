@@ -19,6 +19,8 @@ TODO :)
 
 ## Useful links ##
 * [MongoDB Manual](https://docs.mongodb.com/manual/)
+* [Getting started (shell)](https://docs.mongodb.com/getting-started/shell)
+* [Getting started (Node.js)](http://mongodb.github.io/node-mongodb-native/2.2/quick-start/?_ga=1.17895929.1775342017.1484935110)
 * [Install MongoDB on Windows](https://docs.mongodb.com/getting-started/shell/tutorial/install-mongodb-on-windows/)
 
 ## License ##
