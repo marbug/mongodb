@@ -12,6 +12,4 @@ So, let's start from [manual's introduction](https://docs.mongodb.com/manual/int
 
 MongoDB is an open-source document database that provides high performance, high availability, and automatic scaling.
 
-
-
 TODO
