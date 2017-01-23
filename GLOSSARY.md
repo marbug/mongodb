@@ -1,5 +1,7 @@
 # Glossary #
 
+https://docs.mongodb.com/manual/reference/glossary/
+
 ## BSON ##
 TODO
 
@@ -43,3 +45,9 @@ TODO
 
 ## replication facility ##
 Same as [replica set](GLOSSARY.md#replica-set)
+
+## shard key ##
+The field MongoDB uses to distribute documents among members of a sharded cluster.
+* [shard key](https://docs.mongodb.com/manual/reference/glossary/#term-shard-key)
+* [sharded cluster](https://docs.mongodb.com/manual/reference/glossary/#term-sharded-cluster)
+* [Shard Keys](https://docs.mongodb.com/manual/core/sharding-shard-key/#shard-key)
