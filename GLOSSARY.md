@@ -33,3 +33,13 @@ TODO
 
 ## record ##
 A record in MongoDB is a [document](GLOSSARY.md#document), which is a data structure composed of field and value pairs.
+
+## replica set ##
+A replica set is a group of MongoDB servers that maintain the same data set, providing redundancy and increasing data availability.
+See [replication](GLOSSARY.md#replication) for more details.
+
+## replication ##
+TODO
+
+## replication facility ##
+Same as [replica set](GLOSSARY.md#replica-set)
