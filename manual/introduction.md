@@ -52,7 +52,7 @@ MongoDB provides horizontal scalability as part of its core functionality:
 
 ### Support for Multiple Storage Engines ###
 
-MongoDB supports multiple [storage engines](manua/storage-engines.md), such as:
+MongoDB supports multiple [storage engines](storage-engines.md), such as:
 
 * [WiredTiger Storage Engine](storage-engines/wiredtiger.md)
 * [MMAPv1 Storage Engine](storage-engines/mmapv1.md)
