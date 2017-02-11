@@ -21,20 +21,23 @@ The advantages of using documents are:
 
 ### High Performance ###
 
-MongoDB provides high performance data persistence. In particular,
+MongoDB provides high performance data persistence. In particular:
+
 * Support for embedded data models reduces I/O activity on database system.
 * Indexes support faster queries and can include keys from embedded documents and arrays.
 
 ### Rich Query Language ###
 
 MongoDB supports a rich query language to support [read and write operations (CRUD)](CRUD.md) as well as:
+
 * [Data Aggregation](data-aggregation.md)
 * [Text Search](text-search.md)
 * [Geospatial Queries](geospatial-queries.md)
 
 ### High Availability ###
 
-MongoDB’s [replication facility](replication.md), called [replica set](replication.md), provides:
+MongoDB's [replication facility](replication.md), called [replica set](replication.md), provides:
+
 * automatic failover
 * data redundancy.
 
@@ -50,6 +53,7 @@ MongoDB provides horizontal scalability as part of its core functionality:
 ### Support for Multiple Storage Engines ###
 
 MongoDB supports multiple [storage engines](manua/storage-engines.md), such as:
+
 * [WiredTiger Storage Engine](storage-engines/wiredtiger.md)
 * [MMAPv1 Storage Engine](storage-engines/mmapv1.md)
 
