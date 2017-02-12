@@ -5,6 +5,9 @@ https://docs.mongodb.com/manual/reference/glossary/
 ## BSON ##
 TODO
 
+## Collection ##
+TODO (https://docs.mongodb.com/manual/reference/glossary/#term-collection)
+
 ## CRUD ##
 Create, Read, Update, and Delete operations
 
