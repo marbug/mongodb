@@ -29,3 +29,8 @@ TODO :)
 
 ## License ##
 [Read here](LICENSE)
+
+***
+ Prev page  |  Next page
+----------- | -----------------------------:
+            |  [MongoDB Manual](MANUAL.md)

@@ -59,4 +59,7 @@ MongoDB supports multiple [storage engines](storage-engines.md), such as:
 
 In addition, MongoDB provides pluggable storage engine API that allows third parties to develop storage engines for MongoDB.
 
-[prev page: MongoDB manual](../MANUAL.md) | [next page: Databases and Collections](databases-and-collections.md)
+***
+ Prev page  |  Next page
+----------- | -----------------------------:
+[MongoDB manual](../MANUAL.md) | [Databases and Collections](databases-and-collections.md)

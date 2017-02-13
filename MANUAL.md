@@ -8,4 +8,7 @@ MongoDB manual has version of 'Getting Started' for different languages (Python,
 
 So, let's start from [manual's introduction](https://docs.mongodb.com/manual/introduction/)
 
-[next page: Introduction](manual/introduction.md)
+***
+ Prev page  |  Next page
+----------- | -----------------------------:
+ [README.md](README.md) | [Introduction](manual/introduction.md)
